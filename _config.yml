@@ -1,5 +1,5 @@
 # Base configs
-baseurl: "http://idiotidiotidiot.com"
+baseurl: "https://idiotidiotidiot.com"
 image_fulls_loc: "/images/fulls"
 image_thumbs_loc: "/images/fulls"
 google_analytics: "UA-46465113-2"
@@ -13,8 +13,8 @@ header:
  subtitle: "idiotidiotidiot.com"
 footer:
  name: "This website is dedicated to explaining why Faiza is Dumb"
- bio: "I am a developer and a tech aficionado from India. Love making teeny tiny apps solving tiny problems in life and now learning photography."
- github: "Want a website like this for yourself for free? Just <a href=\"https://github.com/ramswaroop/photography\">fork me on github</a> ;)"
+ bio: "Faiza once made a joke about her superior brother Bilal Ather being an idiot. As retaliaiton he purchased the domain 'idiotidiotidiot.com' to show the world who the real idiot is!"
+ github: "Faiza is an idiot. So big of an idiot I had to say it 3x."
 web_design: "AJ"
 social_urls:
   facebook: "https://www.facebook.com/ramswaroop"
